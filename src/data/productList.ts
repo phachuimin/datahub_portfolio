@@ -36,5 +36,11 @@ export const productList: Product[] = [
   //   name: "LiquidFiles",
   //   image:
   //     "https://man.liquidfiles.com/assets/images/logo_144x144-362aae5506940de69ed13cf4f518a9d20ca5271f4e82934de4e31cb04f03a37a.png",
+  //   slogan: "Send Large Files Fast, Easy, Secure and Affordable",
+  //   description: [],
+  //   categories: ['File Transfer'],
+  //   url: 'https://www.liquidfiles.com/',
+  //   images: [],
+  //   color: ''
   // },
 ];
